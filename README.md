@@ -1,1 +1,1 @@
-# Finance-Model---Newton-Raphson
+# Financial Model---Newton-Raphson
